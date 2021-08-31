@@ -1,0 +1,5 @@
+Markdown Cheatsheet -  JP NB:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+A gallery of interesting Jupyter Notebooks:
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
